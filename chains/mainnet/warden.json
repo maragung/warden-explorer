@@ -1,5 +1,5 @@
 {
-  "chain_name": "Warden",
+  "chain_name": "warden",
   "coingecko": "",
   "api": ["https://api.warden.clogs.id/"],
   "rpc": ["https://rpc.warden.clogs.id/"],
