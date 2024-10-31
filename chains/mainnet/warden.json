@@ -10,7 +10,7 @@
   "addr_prefix": "warden",
   "logo": "https://explorer.clogs.id/logos/warden.svg",
   "assets": [{
-    "base": "uward",
+    "base": "award",
     "symbol": "WARD",
     "exponent": "6",
     "coingecko_id": "",
